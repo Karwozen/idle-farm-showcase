@@ -1,6 +1,6 @@
 # Idle Farm
 
-Idle Farm é um RPG de fantasia jogável no navegador. A proposta é preparar um personagem, escolher uma expedição e acompanhar a caçada automática. A versão atual é uma demonstração em desenvolvimento.
+Idle Farm é um RPG de fantasia baseado em tibia, jogável no navegador. A proposta é preparar um personagem, escolher uma expedição e acompanhar a caçada automática. A versão atual é uma demonstração em desenvolvimento.
 
 ## Como se joga
 
